@@ -79,8 +79,8 @@ loadstring(game:HttpGet("https://cdn.maruhub.online/s/mobile"))()
     ),
 
 
-    "banana_kaitun levi": (
-        "🍌 Banana Kaitun levi",
+    "banana_kaitun_levi": (
+    "🍌 Banana Kaitun Levi",
         """
 getgenv().Key = ""
 getgenv().__BANANA_SCRIPT_ROUTE = "kaitun_levi"
